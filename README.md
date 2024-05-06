@@ -1,2 +1,3 @@
 # odin-recipes
-for Odin CSS 2. Cascades
+for Odin HTML Assignment 1
+& CSS 2. Cascades
